@@ -1,4 +1,4 @@
-# Core Java Banking System
+# Core Java Bank Management System
 
 ## Overview
 This project is a console-based Banking Management System developed using Core Java. 
