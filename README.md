@@ -25,5 +25,3 @@ The main objective of this project is to demonstrate fundamental Java concepts i
 
 
 
-2. Run the program:
-   java BankDriver
